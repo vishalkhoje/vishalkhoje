@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
  <br/>
  
-- 🔭 I’m currently working on `ReactJs, React Query, NodeJs, TYPEORM, Posrgresql, and AWS`
+- 🔭 I’m currently working on `ReactJs, Redux toolkit, React Query, NodeJs, TYPEORM, PostgreSQL, and AWS`
 - 🌱 I’m currently learning `Next.js and TailwindCss`
 - 👯 I’m looking to collaborate with `OpenMined`
 - 🤔 I’m looking for help with `Huggingface Transformers` and `Competitive Programming
@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 Feel free to connect with me on various platforms and networks:
 
-- **GitHub:** (https://github.com/your-username)
+- **GitHub:** (https://github.com/vishalkhoje)
 - **LinkedIn:** (https://www.linkedin.com/in/vishal-khoje/))
 - **Personal Website:** (https://www.vishalkhoje.com)
-- **Email:** vishal.khoje@gmail.com
+- **Email:** vishalkhoje@gmail.com
 
 I'm always open to collaboration and interesting discussions. Don't hesitate to reach out!
 
