@@ -1,5 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vishal Khoje</h1>
-<h3 align="center">Full-stack Web developer | Passionate Programmer | JavaScript | ReactJs | NodeJs | React Native Developer</h3>
+<h3 align="center">Full-stack developer | Passionate Programmer | JavaScript | ReactJs | NodeJs</h3>
 <!---
 vishalkhoje/vishalkhoje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 Feel free to connect with me on various platforms and networks:
 
 - **GitHub:** (https://github.com/vishalkhoje)
-- **LinkedIn:** (https://www.linkedin.com/in/vishal-khoje/))
+- **LinkedIn:** (https://www.linkedin.com/in/vishal-khoje))
 - **Personal Website:** (https://www.vishalkhoje.com)
 - **Email:** vishalkhoje@gmail.com
 
